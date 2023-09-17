@@ -27,7 +27,7 @@ function booking(name){
 }
 </script>
 <template>
-  <div class="header"><font color ="pink"><u><b><h1>คาเฟ่</h1></b></u></font></div>
+  <div class="header"><u><font color =""><b><h1>cafe</h1></b></font></u></div>
   <div class="p-3 m-0 border-0 bd-example m-0 border-0">
     <div class="text-center">
       <div class="row row-col-1 row-cols-md-3 g-4">
